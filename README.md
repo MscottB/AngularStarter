@@ -1,6 +1,6 @@
-# SPA
+# Angular Starter Kit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+Este proyecto se basa en el CLI de angular en su version 6. Al cual se le realizaron cambios en sus herramientas
 
 ## Development server
 
