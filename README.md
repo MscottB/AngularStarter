@@ -2,26 +2,28 @@
 
 Este proyecto se basa en el CLI de angular en su version 6. Al cual se le realizaron cambios en sus herramientas
 
-## Development server
+## Como Ocupar AngularStarterKit
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Primer se debe clonar el repositorio con el sigueinte comando.
 
-## Code scaffolding
+> git clone https://github.com/MscottB/AngularStarter
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A continuación, Installar las dependencias.
 
-## Build
+> Yarn Install
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Cambios Realizados
 
-## Running unit tests
+Las herramientas que tiene angular se mantiene, y se han agregado nuevas opciones las cuales son:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+| función | herramienta angular | Nueva opcion | Nuevo comando(Anteponer Yarn/NPM)   |
+| :---: | :---: | :---: | :---: |
+| **Test Unit** | Karma/Jasmine | [Jest](https://facebook.github.io/jest/) | `test:j`,`test:watch`,`test:ci`, `test:coverage` |
+| **Test End-to-End** | Protactor/Selenium  | [TestCafe](https://devexpress.github.io/testcafe/) | `e2e:tc`,`e2e:ci` |
+| **Formatting** | TSLint | TSLint+Prettier | `format`   |
 
-## Running end-to-end tests
+## Posibles Problemas
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+En caso de presentar problemas Prettier con TSList por un tema de reglas, se debe ocupar el siguente comando:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+> yarn tslint-config-prettier-check ./tslint.json
