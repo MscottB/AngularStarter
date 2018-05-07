@@ -1,6 +1,10 @@
 # Angular Starter Kit
 
-Este proyecto se basa en el CLI de angular en su version 6. Al cual se le realizaron cambios en sus herramientas
+Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas opciones a las herramientas actualmente disponibles.
+
+
+- [x] Pre Compilador [SASS](https://sass-lang.com/)
+- [x] Modulo Router Incluido  
 
 ## Como Ocupar AngularStarterKit
 
@@ -27,3 +31,9 @@ Las herramientas que tiene angular se mantiene, y se han agregado nuevas opcione
 En caso de presentar problemas Prettier con TSList por un tema de reglas, se debe ocupar el siguente comando:
 
 > yarn tslint-config-prettier-check ./tslint.json
+
+# Datos Extras
+
+## Comparacion prueba unitaria Karma vs Jest
+
+![Click para ver comparacion](https://cdn-images-1.medium.com/max/800/0*s9xWHdUAHYgIeS7X.png)
