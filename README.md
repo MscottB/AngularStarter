@@ -30,7 +30,7 @@ Las herramientas que tiene angular se mantiene, y se han agregado nuevas opcione
 | :---: | :---: | :---: | :---: |
 | **Test Unit** | Karma/Jasmine | [Jest](https://facebook.github.io/jest/) | `test:j`,`test:watch`,`test:ci`, `test:coverage` |
 | **Test End-to-End** | Protactor/Selenium  | [TestCafe](https://devexpress.github.io/testcafe/) | `e2e:tc`,`e2e:ci` |
-| **Formatting** | TSLint | TSLint+Prettier | `format`   |
+| **Formatting** | TSLint | TSLint+[Prettier](https://prettier.io/) | `format`   |
 
 ## Posibles Problemas
 
