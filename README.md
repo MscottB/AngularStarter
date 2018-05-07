@@ -14,6 +14,8 @@ Instalar lo siguente:
 
 - [AngularCLI](https://cli.angular.io/) para ocupar los comandos del CLI y facilitar el desarrollo.
 
+- [Yarn](https://yarnpkg.com/) Opcion a NPM, no es obligatorio, pero no esta demas probar.
+
  se debe clonar el repositorio con el sigueinte comando.
 
 > git clone https://github.com/MscottB/AngularStarter
