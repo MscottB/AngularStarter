@@ -5,6 +5,8 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas
 
 - [x] Pre Compilador [SASS](https://sass-lang.com/)
 - [x] Modulo Router Incluido  
+- [ ] Integracion TestCafe - EN PROCESO  
+- [ ] Integracion Bootstrap
 
 ## Como Ocupar AngularStarterKit
 
