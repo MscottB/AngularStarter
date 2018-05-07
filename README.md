@@ -8,7 +8,13 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas
 
 ## Como Ocupar AngularStarterKit
 
-Primer se debe clonar el repositorio con el sigueinte comando.
+Instalar lo siguente:
+
+- [Typescript](http://www.typescriptlang.org/) Por las dudas.
+
+- [AngularCLI](https://cli.angular.io/) para ocupar los comandos del CLI y facilitar el desarrollo.
+
+ se debe clonar el repositorio con el sigueinte comando.
 
 > git clone https://github.com/MscottB/AngularStarter
 
@@ -34,6 +40,6 @@ En caso de presentar problemas Prettier con TSList por un tema de reglas, se deb
 
 # Datos Extras
 
-## Comparacion prueba unitaria Karma vs Jest
+### Comparacion prueba unitaria Karma vs Jest
 
 ![Click para ver comparacion](https://cdn-images-1.medium.com/max/800/0*s9xWHdUAHYgIeS7X.png)
