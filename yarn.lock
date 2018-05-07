@@ -7560,6 +7560,10 @@ test-exclude@^4.2.1:
     read-pkg-up "^1.0.1"
     require-main-filename "^1.0.1"
 
+testcafe-angular-selectors@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/testcafe-angular-selectors/-/testcafe-angular-selectors-0.3.0.tgz#dec03e468d6383d2cacddde38930587863bbb798"
+
 testcafe-browser-tools@1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/testcafe-browser-tools/-/testcafe-browser-tools-1.5.1.tgz#8439a85300bbd73fdd540244aa1ce35a0d3e9632"
