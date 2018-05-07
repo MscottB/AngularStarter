@@ -4,7 +4,9 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas
 
 
 - [x] Pre Compilador [SASS](https://sass-lang.com/)
-- [x] Modulo Router Incluido  
+- [x] Modulo Router Incluido
+- [x] Integracion Jest
+- [ ] integracion Prettier  
 - [ ] Integracion TestCafe - EN PROCESO  
 - [ ] Integracion Bootstrap
 
