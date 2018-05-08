@@ -8,7 +8,7 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas
 - [x] Integracion Jest
 - [x] integracion Prettier  
 - [ ] Integracion TestCafe - EN PROCESO  
-- [ ] Integracion Bootstrap
+- [x] Integracion Bootstrap 4
 
 ## Como Ocupar AngularStarterKit
 
