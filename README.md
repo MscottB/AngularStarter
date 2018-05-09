@@ -1,26 +1,25 @@
 # Angular Starter Kit
 
-Este proyecto se basa en el CLI de angular en su version 6. Al cual se le nuevas opciones a las herramientas actualmente disponibles.
-
+Este proyecto se basa en el CLI de angular en su version 6. Al cual se le agregan nuevas opciones a las herramientas actualmente disponibles.
 
 - [x] Pre Compilador [SASS](https://sass-lang.com/)
 - [x] Modulo Router Incluido
 - [x] Integracion Jest
-- [x] integracion Prettier  
-- [ ] Integracion TestCafe - EN PROCESO  
+- [x] integracion Prettier
+- [ ] Integracion TestCafe - EN PROCESO
 - [x] Integracion Bootstrap 4
 
 ## Como Ocupar AngularStarterKit
 
 Instalar lo siguente:
 
-- [Typescript](http://www.typescriptlang.org/) Por las dudas.
+* [Typescript](http://www.typescriptlang.org/) Por las dudas.
 
-- [AngularCLI](https://cli.angular.io/) para ocupar los comandos del CLI y facilitar el desarrollo.
+* [AngularCLI](https://cli.angular.io/) para ocupar los comandos del CLI y facilitar el desarrollo.
 
-- [Yarn](https://yarnpkg.com/) Opcion a NPM, no es obligatorio, pero no esta demas probar.
+* [Yarn](https://yarnpkg.com/) Opcion a NPM, no es obligatorio, pero no esta demas probar.
 
- se debe clonar el repositorio con el sigueinte comando.
+se debe clonar el repositorio con el sigueinte comando.
 
 > git clone https://github.com/MscottB/AngularStarter
 
@@ -32,11 +31,11 @@ A continuación, Installar las dependencias.
 
 Las herramientas que tiene angular se mantiene, y se han agregado nuevas opciones las cuales son:
 
-| función | herramienta angular | Nueva opcion | Nuevo comando(Anteponer Yarn/NPM)   |
-| :---: | :---: | :---: | :---: |
-| **Test Unit** | Karma/Jasmine | [Jest](https://facebook.github.io/jest/) | `test:j`,`test:watch`,`test:ci`, `test:coverage` |
-| **Test End-to-End** | Protactor/Selenium  | [TestCafe](https://devexpress.github.io/testcafe/) | `e2e:tc`,`e2e:ci` |
-| **Formatting** | TSLint | TSLint+[Prettier](https://prettier.io/) | `format`   |
+|       función       | herramienta angular |                    Nueva opcion                    |        Nuevo comando(Anteponer Yarn/NPM)         |
+| :-----------------: | :-----------------: | :------------------------------------------------: | :----------------------------------------------: |
+|    **Test Unit**    |    Karma/Jasmine    |      [Jest](https://facebook.github.io/jest/)      | `test:j`,`test:watch`,`test:ci`, `test:coverage` |
+| **Test End-to-End** | Protactor/Selenium  | [TestCafe](https://devexpress.github.io/testcafe/) |                `e2e:tc`,`e2e:ci`                 |
+|   **Formatting**    |       TSLint        |      TSLint+[Prettier](https://prettier.io/)       |                     `format`                     |
 
 ## Posibles Problemas
 
