@@ -11,6 +11,9 @@ const jestConfig = {
         '<rootDir>/src/.*(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$',
         'src/(setupJest|jestGlobalMocks).ts',
     ],
+    transformIgnorePatterns: [
+        "node_modules/(?!(@ngrx))"
+    ]
 };
 
 module.exports = jestConfig;
