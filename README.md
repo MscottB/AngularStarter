@@ -58,7 +58,10 @@ La configuracion de origen/destino de las imagenes se encuentra en **gulp-config
 - img: Comprime las imagenes(JPG,PNG,GIF,SVG) sin la necesidad de conexion a internet.- **Menor poder de Compresión**
 
 --------------------------------------
-<pre><code>&lt;div class="footer"&gt;
-    &amp;copy; 2018 Michael Scott B.
-&lt;/div&gt;
-</code></pre>
+#### Author
+
+Michael Scott Bravo.
+
+#### License
+
+Copyright © 2018, Michael Scott Bravo. Released under the MIT License.
