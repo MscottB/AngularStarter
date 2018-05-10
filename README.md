@@ -62,6 +62,7 @@ La configuracion de origen/destino de las imagenes se encuentra en **gulp-config
 
 Michael Scott Bravo.
 
+- [Github/MscottB](https://github.com/MscottB)
 #### License
 
-Copyright © 2018, Michael Scott Bravo. Released under the MIT License.
+Copyright © 2018, Michael Scott Bravo. Released under the [MIT License](https://github.com/MscottB/AngularStarter/blob/master/LICENSE).
