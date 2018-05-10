@@ -24,11 +24,11 @@ Instalar lo siguente:
 
 se debe clonar el repositorio con el sigueinte comando.
 
-> git clone https://github.com/MscottB/AngularStarter
+`git clone https://github.com/MscottB/AngularStarter`
 
 A continuación, Installar las dependencias.
 
-> Yarn Install
+`Yarn Install`
 
 ## Cambios Realizados
 
