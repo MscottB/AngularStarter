@@ -30,6 +30,10 @@ A continuación, Installar las dependencias.
 
 `Yarn Install`
 
+Y por ultimo iniciar angular.
+
+`Yarn start`
+
 ## Cambios Realizados
 
 Las herramientas que tiene angular se mantiene, y se han agregado nuevas opciones las cuales son:
@@ -45,7 +49,7 @@ Las herramientas que tiene angular se mantiene, y se han agregado nuevas opcione
 
 En caso de presentar problemas Prettier con TSList por un tema de reglas, se debe ocupar el siguente comando:
 
-> yarn tslint-config-prettier-check ./tslint.json
+`yarn tslint-config-prettier-check ./tslint.json`
 
 # Datos Extras
 
