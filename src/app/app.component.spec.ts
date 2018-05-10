@@ -16,7 +16,7 @@ describe('AppComponent', () => {
   it(`Debe tener como título 'Angular Starter Kit'`, async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('Angular');
+    expect(app.title).toEqual('Angular Starter Kit');
   }));
   it('Debe renderizar el título en una etiqueta H1', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
