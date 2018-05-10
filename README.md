@@ -1,3 +1,5 @@
+![AngularStarterKit](https://github.com/MscottB/AngularStarter/blob/master/src/assets/img/AngularStarterKit.png)
+
 # Angular Starter Kit
 
 Este proyecto se basa en el CLI de angular en su version 6. Al cual se le agregan nuevas opciones a las herramientas actualmente disponibles.
@@ -55,7 +57,8 @@ La configuracion de origen/destino de las imagenes se encuentra en **gulp-config
 
 - img: Comprime las imagenes(JPG,PNG,GIF,SVG) sin la necesidad de conexion a internet.- **Menor poder de Compresión**
 
-
-### Comparacion prueba unitaria Karma vs Jest
-
-![Click para ver comparacion](https://cdn-images-1.medium.com/max/800/0*s9xWHdUAHYgIeS7X.png)
+--------------------------------------
+<pre><code>&lt;div class="footer"&gt;
+    &amp;copy; 2018 Michael Scott B.
+&lt;/div&gt;
+</code></pre>
