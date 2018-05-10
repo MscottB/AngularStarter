@@ -1,0 +1,10 @@
+{
+    "Tiny": {
+        "src": "../project-images/*.{jpg,png}",
+        "dest": "../src/assets/img"
+    },
+    "Img": {
+        "src": "../project-images/*.{jpg,png,gif,svg}",
+        "dest": "../src/assets/img"
+    }
+}
