@@ -1,6 +1,6 @@
 {
   "name": "angularstarter",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Base para iniciar proyecto con angular (version 6)",
   "author": "Michael Scott Bravo",
   "license": "MIT",
@@ -67,6 +67,7 @@
     "jasmine-spec-reporter": "~4.2.1",
     "jest": "^22.4.3",
     "jest-preset-angular": "^5.2.2",
+    "jest-zone-patch": "^0.0.8",
     "karma": "~1.7.1",
     "karma-chrome-launcher": "~2.2.0",
     "karma-coverage-istanbul-reporter": "~1.4.2",
