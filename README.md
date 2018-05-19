@@ -51,6 +51,10 @@ En caso de presentar problemas Prettier con TSList por un tema de reglas, se deb
 
 `yarn tslint-config-prettier-check ./tslint.json`
 
+Al realizar test con jest, para disminuir los codigos de error que puede devolver zone, habilitar la siguiente linea en el archivo **src/setupJest.ts**:
+
+`Error.stackTraceLimit = 1;`
+
 # Datos Extras
 
 ### Opciones para comprimir imagenes

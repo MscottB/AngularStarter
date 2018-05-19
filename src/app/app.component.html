@@ -1,27 +1,58 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="600" alt="Angular Logo" src="assets/img/AngularStarterKit.png">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 col-md-8">
+            <img width="700" alt="Responsive image" src="assets/img/AngularStarterKit.png">
+        </div>
+        <div class="col-12 col-md-4 ">
+            <div class="jumbotron jumbotron-fluid ">
+                <h1 class="display-4" style="text-align:center">
+                    Welcome to <br> {{ title }}!
+                </h1>
+            </div>
+        </div>
+    </div>
 </div>
-<h2>Here are some links to help you start: </h2>
-<ul>
-  <li>
-    <h2>
-      <a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a>
-    </h2>
-  </li>
-  <li>
-    <h2>
-      <a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a>
-    </h2>
-  </li>
-  <li>
-    <h2>
-      <a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a>
-    </h2>
-  </li>
-</ul>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <h2>Here are some links to help you start: </h2>
+            <ul>
+                <li>
+                    <h2>
+                        <a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a>
+                    </h2>
+                </li>
+                <li>
+                    <h2>
+                        <a target="_blank" rel="noopener" href="https://github.com/angular/angular-cli/wiki">CLI Documentation</a>
+                    </h2>
+                </li>
+                <li>
+                    <h2>
+                        <a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a>
+                    </h2>
+                </li>
+            </ul>
+        </div>
+        <div class="col">
+            <h2>Additional resources: </h2>
+            <ul>
+                <li>
+                    <h2>
+                        <a target="_blank" rel="noopener" href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">Bootstrap documentation</a>
+                    </h2>
+                </li>
+                <li>
+                    <h2>
+                        <a target="_blank" rel="noopener" href="https://github.com/MscottB/AngularStarter">AngularStarter Documentation</a>
+                    </h2>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
 
 <router-outlet></router-outlet>

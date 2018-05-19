@@ -6,7 +6,7 @@ import { AppComponent } from "./app.component";
 
 const routes: Routes = [
   { path: 'app', component: AppComponent },
-  { path: '**', pathMatch: 'full', redirectTo: 'app' },
+  { path: '**', pathMatch: 'full', redirectTo: '' },
 ];
 
 @NgModule({
