@@ -57,6 +57,16 @@ Al realizar test con jest, para disminuir los codigos de error que puede devolve
 
 # Datos Extras
 
+### i18n Pipes
+
+Se ha agregado esta caracteristica, para trabajar los siguientes pipes, dependiendo de la configuracion regional aplicada, en este caso es **es-CL**(Por defecto angular trabaja en **en-US**).
+
+#### Pipes:
+- [DatePipe](https://angular.io/api/common/DatePipe)
+- [CurrencyPipe](https://angular.io/api/common/CurrencyPipe)
+- [DecimalPipe](https://angular.io/api/common/DecimalPipe)
+- [PercentPipe](https://angular.io/api/common/PercentPipe)
+
 ### Opciones para comprimir imagenes
 
 La configuracion de origen/destino de las imagenes se encuentra en **gulp-config/path-gulpfile.json**, actualmente se poseen dos opciones:
