@@ -66,7 +66,7 @@ Para saber las opciones disponibles ver el siguiente [enlace](https://github.com
 
 #### Pipes:
 - [DatePipe](https://angular.io/api/common/DatePipe)
-- [CurrencyPipe](https://angular.io/api/common/CurrencyPipe)
+- [CurrencyPipe](https://angular.io/api/common/CurrencyPipe)(para saber el codigo de divisa de un pais ver el siguiente [enlace](https://es.wikipedia.org/wiki/ISO_4217))
 - [DecimalPipe](https://angular.io/api/common/DecimalPipe)
 - [PercentPipe](https://angular.io/api/common/PercentPipe)
 
