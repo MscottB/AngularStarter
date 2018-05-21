@@ -11,7 +11,7 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le agrega
 - [ ] Integracion TestCafe - EN PROCESO
 - [x] Integracion Bootstrap 4
 - [x] Reduccion en el tamaño de las imagenes con Gulp + Plugins
-- [x] Agregado i18n Pipes, trabajndo en la configuracion regional **es-CL**
+- [x] Agregado i18n Pipes, trabajando en la configuracion regional **es-CL**
 
 ## Como Ocupar AngularStarterKit
 
@@ -61,6 +61,8 @@ Al realizar test con jest, para disminuir los codigos de error que puede devolve
 ### i18n Pipes
 
 Se ha agregado esta caracteristica, para trabajar los siguientes pipes, dependiendo de la configuracion regional aplicada, en este caso es **es-CL**(Por defecto angular trabaja en **en-US**).
+
+Para saber las opciones disponibles ver el siguiente [enlace](https://github.com/angular/angular/tree/master/packages/common/locales).
 
 #### Pipes:
 - [DatePipe](https://angular.io/api/common/DatePipe)
