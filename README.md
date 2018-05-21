@@ -11,6 +11,7 @@ Este proyecto se basa en el CLI de angular en su version 6. Al cual se le agrega
 - [ ] Integracion TestCafe - EN PROCESO
 - [x] Integracion Bootstrap 4
 - [x] Reduccion en el tamaño de las imagenes con Gulp + Plugins
+- [x] Agregado i18n Pipes, trabajndo en la configuracion regional **es-CL**
 
 ## Como Ocupar AngularStarterKit
 
